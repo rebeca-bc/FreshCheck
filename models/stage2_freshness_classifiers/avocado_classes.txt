@@ -1,0 +1,4 @@
+avocado mushy
+avocado ripe
+avocado spoiled
+avocado unripe

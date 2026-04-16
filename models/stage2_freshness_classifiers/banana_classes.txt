@@ -1,0 +1,5 @@
+banana fresh
+banana overripe
+banana ripe
+banana spoiled
+banana underripe

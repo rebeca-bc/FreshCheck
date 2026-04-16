@@ -16,10 +16,7 @@ venv/
 data/
 data_stages/
 data_augmented/
-models/
 app/
-*.keras
-*.h5
 *.png
 
 # Generated training/evaluation plots (do not upload)

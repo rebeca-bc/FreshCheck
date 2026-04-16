@@ -1,0 +1,5 @@
+avocado
+banana
+spinach
+strawberry
+tomato
