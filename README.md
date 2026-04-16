@@ -9,7 +9,9 @@ The app then translates predictions into practical guidance (days remaining, act
 ## Live Demo
 
 **Deploy link:** `https://your-deploy-link-here`  
-Replace this with your Streamlit Cloud / Render / Hugging Face Space URL.
+
+<img width="1440" height="809" alt="Screen Shot 2026-04-15 at 23 31 22" src="https://github.com/user-attachments/assets/b56eb68c-edaf-42cd-9cf7-0a43a194eada" />
+
 
 ## Highlights
 
