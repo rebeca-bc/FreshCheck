@@ -1,0 +1,28 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Local runtime artifacts
+.streamlit/
+*.log
+
+# Machine Learning Data & Models
+data/
+data_stages/
+data_augmented/
+models/
+app/
+*.keras
+*.h5
+*.png
+
+# Generated training/evaluation plots (do not upload)
+stage1_training*.png
+stage2_*_training.png
+s2_*.png

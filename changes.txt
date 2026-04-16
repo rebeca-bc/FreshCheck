@@ -1,0 +1,54 @@
+ALL STAGE 2 MODELS TRAINED! 1st
+
+Strawberry   | Accuracy: 22.22% | Classes: 4
+Spinach      | Accuracy: 0.00% | Classes: 3
+Tomato       | Accuracy: 44.44% | Classes: 5
+Banana       | Accuracy: 66.67% | Classes: 5
+Avocado      | Accuracy: 64.71% | Classes: 5
+
+-----------------------------------------------------------------
+ALL STAGE 2 MODELS TRAINED! 2nd - changes in data aug intensity 
+
+Strawberry   | Accuracy: 33.33% | Classes: 4
+Spinach      | Accuracy: 40.00% | Classes: 3
+Tomato       | Accuracy: 44.44% | Classes: 5
+Banana       | Accuracy: 48.89% | Classes: 5
+Avocado      | Accuracy: 68.24% | Classes: 5
+
+-----------------------------------------------------------------
+ALL STAGE 2 MODELS TRAINED! 3rd -  added more images & reduced classes
+
+
+Strawberry   | Accuracy: 43.75% | Classes: 4
+Spinach      | Accuracy: 66.67% | Classes: 3
+Tomato       | Accuracy: 92.31% | Classes: 3
+Banana       | Accuracy: 71.43% | Classes: 5
+Avocado      | Accuracy: 70.83% | Classes: 4
+
+-----------------------------------------------------------------
+ALL STAGE 2 MODELS TRAINED! 4rth we moved the dense layers to drop and added l2 regularization
+
+Strawberry   | Accuracy: 43.75% | Classes: 4
+Spinach      | Accuracy: 66.67% | Classes: 3
+Tomato       | Accuracy: 92.31% | Classes: 3
+Banana       | Accuracy: 61.90% | Classes: 5
+Avocado      | Accuracy: 66.67% | Classes: 4
+
+Got worse but the graohics showed betters reults more stable decent not random movements in loss and accuracy 
+
+-----------------------------------------------------------------
+ALL STAGE 2 MODELS TRAINED! - 5th added a higher dropout rate in output layer to 0.5, improved the data classification in strawberries.!
+Strawberry   | Accuracy: 56.25% | Classes: 4
+Spinach      | Accuracy: 66.67% | Classes: 3
+Tomato       | Accuracy: 84.62% | Classes: 3
+Banana       | Accuracy: 61.90% | Classes: 5
+Avocado      | Accuracy: 62.50% | Classes: 4
+
+-----------------------------------------------------------------
+ALL STAGE 2 MODELS TRAINED! - 6th froe 10 more layers, decreased to 0.35 the dropout rate to avoid underfitting and added a kernel regularizer for the output kernel_regularizer with a low loss 
+
+Strawberry   | Accuracy: 56.25% | Classes: 4
+Spinach      | Accuracy: 83.33% | Classes: 3
+Tomato       | Accuracy: 92.31% | Classes: 3
+Banana       | Accuracy: 76.19% | Classes: 5
+Avocado      | Accuracy: 72.00% | Classes: 4
