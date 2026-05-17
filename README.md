@@ -40,6 +40,11 @@ projectClassifier/
 └── README_personal.md
 ```
 
+## File Shortcuts 
+* [README_personal](./README_personal.md): a readme to get to know the personal reasons for developing and researching CNNs on fruit ripeness, the connection it has to environment. All backed up with justifications, real world data and even a sprinkle of my personality,
+* [train_model_stage1.py](./train_model_stage1.py): the first python file to use transfer learning for basic fruit classification, almost perfect accuracy.
+* [train_model_stage2.py](./train_model_stage2.py): the python file on MobileVNet2 Tranfer leanring, the dense, dropped and more techniques applied to avoid overfitting in such a small dataset. 
+
 ## Quick Start
 
 ```bash
@@ -62,3 +67,7 @@ streamlit run app.py
 
 ---
 Created by **Rebeca Borrego Cavazos**.
+
+Feel free to contact if you ahve pictures of fruits at any ripeness stage.
+Feel free to contact me if you wanna connect.
+Feel free to contact me if you have any improvement ideas.
